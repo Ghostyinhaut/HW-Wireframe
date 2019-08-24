@@ -53,19 +53,17 @@ h1{
     background-color:#ebebeb;
     color:#777;
     margin: 20px;
-    float:left;
 }
 
 p{
     width:90%;
     height: 40px;
-    background-color:#ebebeb;
-    color:#777;
     margin-top:20px;
     margin-left:20px;
     margin-right:20px;
+    background-color:#ebebeb;
+    color:#777;
     text-align: center;
-    float:left;
 }
 
 aside{
